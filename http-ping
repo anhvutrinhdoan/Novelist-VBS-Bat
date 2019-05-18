@@ -1,0 +1,1 @@
+This batch utility uses http-ping, a free Windows command line utility, to send ping requests to the Novelist server. To get http-ping download at: https://www.coretechnologies.com/products/http-ping/
